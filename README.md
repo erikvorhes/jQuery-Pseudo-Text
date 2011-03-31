@@ -22,7 +22,7 @@ You have three optional parameters:
 
 ## Compatibility
 
-Due to the nature of pseudo-elements, the support for this plugin is a bit limited. (I.e., versions of Internet Explorer earlier than IE 9 are likely not to work.) This plugin has been tested and works in the following browsers:
+Due to the nature of pseudo-elements, the support for this plugin is a bit limited. (E.g., versions of Internet Explorer earlier than IE 9 are likely not to work.) This plugin has been tested and works in the following browsers:
 
 - Firefox 3.6.x and Firefox 4
 - Opera 11

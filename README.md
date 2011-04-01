@@ -20,6 +20,10 @@ You have three optional parameters:
 - `text`: The text you wish to inject, which defaults to the text in whichever instance of the element you're affecting.
 - `clsName`: The prefix for the class you wish to use on each affected element. This option defaults to the Unicode character _☌_, since the odds of it appearing in your code is highly unlikely. (This character apparently signifies "conjunction," if that matters to you.)
 
+## Admonition
+
+Remember, content generated in CSS should be presentational only--and not be required to discern meaning. As such, you should only use this plugin for things of the "bells and whistles" variety.
+
 ## Compatibility
 
 Due to the nature of pseudo-elements, the support for this plugin is a bit limited. (E.g., versions of Internet Explorer earlier than IE 9 are likely not to work.) This plugin has been tested and works in the following browsers:
@@ -32,4 +36,9 @@ Due to the nature of pseudo-elements, the support for this plugin is a bit limit
 
 If you run into any issues using this plugin, please file a ticket. If you have any enhancements, feel free to fork this!
 
+## License
+
+I don't really care how you use this thing, but if _you_ care about such things, let's say that this plugin is licensed under the [MIT license][mit]. Cool?
+
 [pseudo-element]: http://www.w3.org/TR/css3-selectors/#pseudo-elements "CSS3 Pseudo elements"
+[mit]: http://en.wikipedia.org/wiki/MIT_License

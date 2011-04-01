@@ -1,3 +1,4 @@
+// Made by Erik Vorhes. See https://github.com/erikvorhes/jQuery-Pseudo-Text for more information.
 (function ($) {
     
     var styleEl,

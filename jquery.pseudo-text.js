@@ -25,7 +25,7 @@
         
         });
         
-        styleEl = $("<style/>").text(styleRules).appendTo("head");
+        styleEl = $(document.createElement('style')).text(styleRules).appendTo("head");
         
         return $this;
     
